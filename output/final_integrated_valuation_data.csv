@@ -1,0 +1,11 @@
+company_name,industry,country,fiscal_year,revenue,ebitda,ebitda_margin,valuation_multiple,average_margin,sector_growth_rate,average_valuation_multiple,market_size_billions,data_source,currency,units,last_updated,valuation_vs_sector_avg,margin_vs_sector_avg
+Company_A,Retail,UK,2024,387.81,59.14,15.25,11.92,16.45,5.04,8.4,159.26,Integrated_Private_and_Benchmark,USD,millions,2025-10-28 10:35:08,3.52,-1.2
+Company_B,Consumer Goods,UK,2024,446.05,43.81,9.82,6.46,29.97,4.12,9.56,474.95,Integrated_Private_and_Benchmark,USD,millions,2025-10-28 10:35:08,-3.1,-20.15
+Company_C,Telecommunications,UK,2024,71.71,78.73,109.79,12.08,36.65,7.25,10.6,57.86,Integrated_Private_and_Benchmark,USD,millions,2025-10-28 10:35:08,1.48,73.14
+Company_D,Energy,UK,2024,588.62,27.29,4.64,7.71,18.9,3.82,10.19,483.16,Integrated_Private_and_Benchmark,USD,millions,2025-10-28 10:35:08,-2.48,-14.26
+Company_E,Retail,Brazil,2024,84.92,7.26,8.55,6.65,16.45,5.04,8.4,159.26,Integrated_Private_and_Benchmark,USD,millions,2025-10-28 10:35:08,-1.75,-7.9
+Company_F,Transportation,India,2024,1.75,0.52,29.71,15.49,32.7,4.91,7.33,225.67,Integrated_Private_and_Benchmark,USD,millions,2025-10-28 10:35:08,8.16,-2.99
+Company_G,Financial Services,Germany,2024,141.05,54.62,38.72,15.66,33.3,10.32,9.05,41.88,Integrated_Private_and_Benchmark,USD,millions,2025-10-28 10:35:08,6.61,5.42
+Company_H,Retail,UK,2024,160.36,97.61,60.87,14.08,16.45,5.04,8.4,159.26,Integrated_Private_and_Benchmark,USD,millions,2025-10-28 10:35:08,5.68,44.42
+Company_I,Telecommunications,USA,2024,186.91,27.97,14.96,9.05,36.65,7.25,10.6,57.86,Integrated_Private_and_Benchmark,USD,millions,2025-10-28 10:35:08,-1.55,-21.69
+Company_J,Energy,UK,2024,346.23,68.1,19.67,6.98,18.9,3.82,10.19,483.16,Integrated_Private_and_Benchmark,USD,millions,2025-10-28 10:35:08,-3.21,0.77
